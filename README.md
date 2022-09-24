@@ -9,10 +9,12 @@ Here for time and space optimisation we are using a min heap rather than a list,
 
 If we use min heap then TC: 0(n^2logk)
                         SC: O(k)
+                        
 If we use sorting with a list TC: 0(n^2logn)
                               SC: 0(n)
 
-Here is the approach that i am goint to share for the reference
+
+Here is the approach that I am going to share for the reference
 
 ```````
 class Solution {
